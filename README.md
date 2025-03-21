@@ -8,7 +8,6 @@
 
 🤔 I’m looking for help with advanced Swift features and optimizing database interactions in iOS.
 
-💬 Ask me about microservices, SwiftUI, or anything related to Core Data and app design!
 
 
 <!--
